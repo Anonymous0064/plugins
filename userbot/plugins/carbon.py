@@ -94,7 +94,7 @@ async def carbon_api(e):
         await e.client.send_file(
             e.chat_id,
             file,
-            caption="<< `Here's your carbon Master!` \n **Carbonised Using** [marcusUserbot](https://github.com/hackelite01/Godhackerz-userbot.git)>>\n**Colour Scheme: **`{}`".format(
+            caption="<< `Here's your carbon Master!` \n **Carbonised Using** [marcusUserbot](https://github.com/hackelite01/Marcus-userbot.git)>>\n**Colour Scheme: **`{}`".format(
                 color_name
             ),
             force_document=True,

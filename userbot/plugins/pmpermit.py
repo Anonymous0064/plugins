@@ -29,7 +29,7 @@ PM_WARNS = {}
 PREV_REPLY_MESSAGE = {}
 DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "Set ALIVE_NAME in config vars in Heroku"
 USER_BOT_WARN_ZERO = "__😡 Why Are You Spamming \n🤬 Stop This Shit Now \n😈 Else You'll Get Blocked__ "
-USER_BOT_NO_WARN = f"__👋 Hello There !\n\n🤖 I'm assistant of__ {DEFAULTUSER} __Sir\n\n💻 My Master Is Currently Busy\n\n✉️ send `/start` to Choose what you have came for \n\n🥳 You'll Get a Reply ASAP if you send `/start` **YOU NIGGA** \n\n🤨 Don't Spam Else Get Blocked \n\n❤️ Join My USERBOT SUPPORT GROUP [GODHACKERZ_USERBOT](https://t.me/Godhackerzuserbot)\n\n⚡️ Powered by__ [👩‍💻GODHACKERZ_USERBOT👨‍💻](https://github.com/hackelite01/Godhackerz-userbot.git) \n\n**{Custom}**"
+USER_BOT_NO_WARN = f"__👋 Hello There !\n\n🤖 I'm assistant of__ {DEFAULTUSER} __Sir\n\n💻 My Master Is Currently Busy\n\n✉️ send `/start` to Choose what you have came for \n\n🥳 You'll Get a Reply ASAP if you send `/start` **YOU NIGGA** \n\n🤨 Don't Spam Else Get Blocked \n\n❤️ Join My USERBOT SUPPORT GROUP [GODHACKERZ_USERBOT](https://t.me/Marcususerbot)\n\n⚡️ Powered by__ [👩‍💻GODHACKERZ_USERBOT👨‍💻](https://github.com/hackelite01/Marcus-userbot.git) \n\n**{Custom}**"
 
 
 if Var.PRIVATE_GROUP_ID is not None:
@@ -159,7 +159,7 @@ if Var.PRIVATE_GROUP_ID is not None:
             the_message += "😈**Blocked Users**😈\n\n"
             the_message += f"[👱‍♂ User](tg://user?id={chat_id}): {chat_id}\n"
             the_message += f"🔢 Message Count: {PM_WARNS[chat_id]}\n"
-            the_message += "⚡️Powered By [GODHACKERZ_USERBOT](https://github.com/hackelite01/Godhackerz-userbot.git)"
+            the_message += "⚡️Powered By [GODHACKERZ_USERBOT](https://github.com/hackelite01/Marcus-userbot.git)"
             # the_message += f"Media: {message_media}"
             try:
                 await event.client.send_message(

@@ -1,7 +1,7 @@
 """BarCode Generator
 Command .qr(your text)
 By @snappy101
-© @Godhackerzuserbot
+© @Marcususerbot
 """
 
 import asyncio

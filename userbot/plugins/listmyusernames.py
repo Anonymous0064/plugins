@@ -1,6 +1,6 @@
 # From @Uniborg
 # (c) Shrimadhav U K
-# For  @Godhackerzuserbot
+# For  @Marcususerbot
 #Thanks To @Uniborg
 
 from telethon import events, functions, types

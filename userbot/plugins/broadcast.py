@@ -2,7 +2,7 @@
 # Permission Seeked By @hackelite01 - Approved
 # Thanks To Telebot 
 # Full Credits Are Approved 
-# © @Godhackerzuserbot
+# © @Marcususerbot
 # --------------------------- Asked Xditya And Rewrote This None Idiot Can Claim This As Urs -------------------
 #    TeleBot - UserBot
 #    Copyright (C) 2020 TeleBot

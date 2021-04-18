@@ -2,8 +2,8 @@
 usage: .remkarb //as a reply to any text message
 
 Thanks to @r4v4n4 for vars,,, Random RGB feature by @PhycoNinja13b
-© @Godhackerzuserbot
-Don't Change Credits Gay For @Godhackerzuserbot """
+© @Marcususerbot
+Don't Change Credits Gay For @Marcususerbot """
 
 from selenium.webdriver.support.ui import Select
 from selenium.webdriver.chrome.options import Options
@@ -102,7 +102,7 @@ async def carbon_api(e):
    await e.client.send_file(
          e.chat_id,
          file,
-         caption="Carbonised by @Godhackerzuserbot",
+         caption="Carbonised by @Marcususerbot",
          force_document=False,
          reply_to=e.message.reply_to_msg_id,
          )

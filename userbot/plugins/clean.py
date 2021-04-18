@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # lots of luv to MrConfused To Add Sudo in it and fix
 # Thanks To Friday For This Plugin 
-# © @Godhackerzuserbot
+# © @Marcususerbot
 
 """Cmd= `.clean`
 Usage: Searches for deleted accounts in a groups and channels.

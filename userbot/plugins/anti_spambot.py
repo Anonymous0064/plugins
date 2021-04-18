@@ -186,4 +186,4 @@ CMD_HELP.update({
         \nthis module will ban(or inform the admins of the group about) the\
         \nspammer(s) if they match the userbot's anti-spam algorithm."
 })
-#© @Godhackerzuserbot
+#© @Marcususerbot

@@ -1,9 +1,9 @@
-# Copyright (C) 2020 by @Godhackerzuserbot, < https://github.com/hackelite01/Godhackerz-userbot.git>.
+# Copyright (C) 2020 by @Marcususerbot, < https://github.com/hackelite01/Marcus-userbot.git>.
 #
-# This file is part of < https://github.com/hackelite01/Godhackerz-userbot > project,
+# This file is part of < https://github.com/hackelite01/Marcus-userbot > project,
 # and is released under the "GNU v3.0 License Agreement".
-# Please see < https://github.com/hackelite01/Godhackerz-userbot/blob/main/LICENSE >
-# © @Godhackerzuserbot
+# Please see < https://github.com/hackelite01/Marcus-userbot/blob/main/LICENSE >
+# © @Marcususerbot
 # All rights reserved.
 
 

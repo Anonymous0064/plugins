@@ -1,6 +1,6 @@
 # Plugin To Install Plugins 
 # We Are Not Responsible If Userbot Got Crashed 
-# © @Godhackerzuserbot
+# © @Marcususerbot
 
 from userbot.utils import admin_cmd, load_module, remove_plugin
 import asyncio
@@ -33,7 +33,7 @@ async def install(event):
             else:
                 os.remove(downloaded_file_name)
                 await event.edit(
-                    "Error Had Occurring Master,This plugin is already installed/pre-installed Master.If You Find Errors plz Report to @Godhackerzuserbot"
+                    "Error Had Occurring Master,This plugin is already installed/pre-installed Master.If You Find Errors plz Report to @Marcususerbot"
                 )
         except Exception as e:  # pylint:disable=C0103,W0703
             await event.edit(str(e))

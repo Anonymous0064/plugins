@@ -1,5 +1,5 @@
-# Licensed Under GPU 2.0 "https://github.com/hackelite01/Godhackerz-userbot/blob/main/LICENSE"
-# © @Godhackerzuserbot
+# Licensed Under GPU 2.0 "https://github.com/hackelite01/Marcus-userbot/blob/main/LICENSE"
+# © @Marcususerbot
 # If You Chnge You Are Blitch son 
 import asyncio
 import os

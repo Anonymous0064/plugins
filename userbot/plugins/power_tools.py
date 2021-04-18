@@ -2,7 +2,7 @@
 # General Public License, v.3.0. If a copy of the GPL was not distributed with this
 # file, You can obtain one at https://www.gnu.org/licenses/gpl-3.0.en.html
 """
-(C) @Godhackerzuserbot
+(C) @Marcususerbot
 This Is The power tools of userbot
 copying must have the below lines
 wrote by @Rohithaditya

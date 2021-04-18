@@ -1,7 +1,7 @@
 """
 GODHACKERZ USERBOT 
 Heroku manager for your userbot
-FOR @Godhackerzuserbot 
+FOR @Marcususerbot 
 to set vars and dyno usage
 (C) @godhackerzuserbot
 Wrote by @Rohihaditya
@@ -220,7 +220,7 @@ async def _(givelogs):
         givelogs.chat_id,
         "logs.txt",
         reply_to=givelogs.id,
-        caption="Logs Collected Using Heroku \n For More Support Visit [Userbot Support Group](https://t.me/Godhackerzuserbot)"
+        caption="Logs Collected Using Heroku \n For More Support Visit [Userbot Support Group](https://t.me/Marcususerbot)"
     )
     await edit_or_reply(givelogs, "`Logs Send Sucessfully ! `")
     await asyncio.sleep(5)

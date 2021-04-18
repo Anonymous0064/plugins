@@ -3,7 +3,7 @@ Files Batch Uploader Plugin for userbot.
 usage:- .upb 
 Note:- set TEMP_DIR in Your ENV Vars First.
 By:-@Zero_cool7870	
-© @Godhackerzuserbot
+© @Marcususerbot
 """
 import os 
 import asyncio

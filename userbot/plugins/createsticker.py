@@ -2,8 +2,8 @@
 # modified by @UniBorg
 # imported from ppe-remix by @heyworld & @DeletedUser420
 # modified by @mrconfused
-# (C) @Godhackerzuserbot
-#-----------------------------Edited For @Godhackerzuserbot----------------------------by @Rohithaditya----------------------------------------------------------------------
+# (C) @Marcususerbot
+#-----------------------------Edited For @Marcususerbot----------------------------by @Rohithaditya----------------------------------------------------------------------
 # Keep Above Lines
 
 import io
@@ -66,7 +66,7 @@ async def sticklet(event):
     await event.client.send_file(
         event.chat_id,
         image_stream,
-        caption="@Godhackerzuserbot",
+        caption="@Marcususerbot",
         reply_to=event.message.reply_to_msg_id,
     )
     # cleanup

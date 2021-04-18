@@ -9,7 +9,7 @@
 ###Thanks To Him
 ###Thanks to him 
 ###Recoded by @Private_45
-###© @Godhackerzuserbot
+###© @Marcususerbot
 
 import asyncio
 from telethon import events
@@ -38,13 +38,13 @@ pm_caption += "⚡️Status⚡️\n\n"
 pm_caption += "😎Telethon Version : (1.16.04)\n"
 pm_caption += "🥳Python : (3.8.3)\n"
 pm_caption += "😮Version : (1.0)\n"
-pm_caption += "🥱A.I Verision : Beta **1.0.01** [Ask Support Group Master](t.me/Godhackerzuserbot)\n"
+pm_caption += "🥱A.I Verision : Beta **1.0.01** [Ask Support Group Master](t.me/Marcususerbot)\n"
 pm_caption += "😱Sudo : **{sudo}**\n"
 pm_caption += "🤫Database status : All Fine👌\n"
 pm_caption += f"🥰My Pro Master : {DEFAULTUSER}\n\n"
-pm_caption += "🤖[✅ Deploy Me Now ✅](https://github.com/hackelite01/Godhackerz-userbot.git)\n\n"
-pm_caption += "© [marcus Userbot](https://github.com/hackelite01/Godhackerz-userbot/blob/main/LICENSE)\n\n"
-pm_caption += "    [GODHACKERZ](https://t.me/Godhackerzuserbot) For Latest Updates\n\n"
+pm_caption += "🤖[✅ Deploy Me Now ✅](https://github.com/hackelite01/Marcus-userbot.git)\n\n"
+pm_caption += "© [marcus Userbot](https://github.com/hackelite01/Marcus-userbot/blob/main/LICENSE)\n\n"
+pm_caption += "    [GODHACKERZ](https://t.me/Marcususerbot) For Latest Updates\n\n"
 pm_caption += "SYSTEM HEALTH : STABLE 😎👍 "
 
 @borg.on(admin_cmd(pattern=r"alive"))

@@ -1,6 +1,6 @@
 # this plugin was created by For Dark cobra 
 # Big And Warm Thanks To Them
-# Ported For © @Godhackerzuserbot by @Rohithaditya 
+# Ported For © @Marcususerbot by @Rohithaditya 
 # Asked And Modiefied = Full Approved 
 # Thanks To Dark Cobra
 # ------------------_---------_------_--------------

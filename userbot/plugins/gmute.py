@@ -1,5 +1,5 @@
 """ THANKS TO STARKXD AND FRIDAY TEAM FOR THIS PLUGIN 
-© @Godhackerzuserbot
+© @Marcususerbot
 Don't Change Anything Here 
 This Is Friday Plugin 
 Ask Either Me Or Friday Userbot For Kanging This 

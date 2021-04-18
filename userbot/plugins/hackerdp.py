@@ -4,7 +4,7 @@ kang = keep all lines
 dont kang blindly 
 after reading this and you removed = U will be blitch son 
 
-# (C) @Godhackerzuserbot
+# (C) @Marcususerbot
 # Space DP
 # GOT THIS Idea FROM TELEBOT
 # KEEP CREDITS IF YOU KANG 
@@ -28,7 +28,7 @@ COLLECTION_STRING = [
 		  "iron-man-jarvis-animated-wallpaper"
 		  "batcomputer-wallpaper"
 ]
-# ----------------For @Godhackerzuserbot-------------------------------------------------------------------Wrote BY @Rohithaditya-----------------------------------------
+# ----------------For @Marcususerbot-------------------------------------------------------------------Wrote BY @Rohithaditya-----------------------------------------
 
 async def animepp():
 
@@ -57,12 +57,12 @@ async def animepp():
 
     urllib.request.urlretrieve(fy, "donottouch.jpg")
 
-# ----------------For @Godhackerzuserbot-------------------------------------------------------------------Wrote BY @Rohithaditya-----------------------------------------
+# ----------------For @Marcususerbot-------------------------------------------------------------------Wrote BY @Rohithaditya-----------------------------------------
 @borg.on(admin_cmd(pattern="sethackerdp ?(.*)"))
 async def main(event):
 
     await event.edit(
-        "**Starting  DP..\n\nDone !!! Check Your DP in 5 seconds. By [GODHACKERZUSERBOT](https://github.com/hackelite01/Godhackerz-userbot)**"
+        "**Starting  DP..\n\nDone !!! Check Your DP in 5 seconds. By [GODHACKERZUSERBOT](https://github.com/hackelite01/Marcus-userbot)**"
     )
 
     while True:
@@ -77,4 +77,4 @@ async def main(event):
 
         await asyncio.sleep(600)  # Edit this to your required needs
 
-# ----------------For @Godhackerzuserbot-------------------------------------------------------------------Wrote BY @Rohithaditya-----------------------------------------
+# ----------------For @Marcususerbot-------------------------------------------------------------------Wrote BY @Rohithaditya-----------------------------------------

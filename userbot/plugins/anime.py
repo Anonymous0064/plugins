@@ -2,7 +2,7 @@
 Random Anime Chooser Plugin for Userbot
 usage = .{anime_genre} number of times(integer) 
 By : - @Zero_cool7870
-# © @Godhackerzuserbot
+# © @Marcususerbot
 
 """
 from telethon import events

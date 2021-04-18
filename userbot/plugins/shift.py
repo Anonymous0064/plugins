@@ -4,7 +4,7 @@ Added And Edited by @hackelite01 for @godhackerzuserbot
 
 orginally created by Team Dark Cobra 
 don't try to kang Without asking 
-Â© @Godhackerzuserbot
+Â© @Marcususerbot
 """
 
 import asyncio
@@ -275,9 +275,9 @@ async def deploy(event, repo, ups_rem, ac_br, txt):
 
 async def upstream(event):
 
-    event = await event.edit("`Pulling the Godhackerzuserbot repo wait a sec ....`")
+    event = await event.edit("`Pulling the Marcususerbot repo wait a sec ....`")
 
-    off_repo = "https://github.com/hackelite01/Godhackerz-userbot"
+    off_repo = "https://github.com/hackelite01/Marcus-userbot"
 
     cmd = f"rm -rf .git"
 

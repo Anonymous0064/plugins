@@ -1,6 +1,6 @@
 """Get Telegram Profile Picture and other information
 Syntax: .Extract @username
-© @Godhackerzuserbot """
+© @Marcususerbot """
 
 import html
 from telethon.tl.functions.photos import GetUserPhotosRequest

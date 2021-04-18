@@ -1,4 +1,4 @@
-# © @Godhackerzuserbot
+# © @Marcususerbot
 # Original Plugin From Javes Userbot
 # Ported by @hackelite01
 # "Don't Change This Gay"

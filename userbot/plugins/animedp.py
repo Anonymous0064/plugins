@@ -3,7 +3,7 @@ Made By @TeleBotHelp Keep Credits If You Are Goanna Kang This Lol
 And Thanks To The Creator Of Autopic This Script Was Made from Snippets From That Script
 Usage .actressdp I'm Not Responsible For Any Ban caused By This
 """
-# (C) @Godhackerzuserbot
+# (C) @Marcususerbot
 # ANIME DP
 # GOT THIS FROM TELEBOT
 # KEEP CREDITS IF YOU KANG 
@@ -64,7 +64,7 @@ async def animepp():
 async def main(event):
 
     await event.edit(
-        "**Starting Anime DP..\n\nDone !!! Check Your DP in 5 seconds. By [GODHACKERZUSERBOT](https://github.com/hackelite01/Godhackerz-userbot)**"
+        "**Starting Anime DP..\n\nDone !!! Check Your DP in 5 seconds. By [GODHACKERZUSERBOT](https://github.com/hackelite01/Marcus-userbot)**"
     )
 
     while True:

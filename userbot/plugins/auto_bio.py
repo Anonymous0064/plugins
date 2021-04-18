@@ -1,4 +1,4 @@
-#autobio for @Godhackerzuserbot, Edit bio strings Amigo if u use this plugin, Or else u are cursed :)
+#autobio for @Marcususerbot, Edit bio strings Amigo if u use this plugin, Or else u are cursed :)
 import asyncio
 import time
 from telethon import events
@@ -98,4 +98,4 @@ async def _(event):
             #     "Successfully Changed Profile Bio"
             # )
         await asyncio.sleep(DEL_TIME_OUT)
-# © @Godhackerzuserbot
+# © @Marcususerbot

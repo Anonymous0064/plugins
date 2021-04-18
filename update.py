@@ -28,7 +28,7 @@ IS_SELECTED_DIFFERENT_BRANCH = (
     "in this case, Updater is unable to identify the branch to be updated."
     "please check out to an official branch, and re-start the updater."
 )
-OFFICIAL_UPSTREAM_REPO = "https://github.com/hackelite01/Godhackerz-userbot"
+OFFICIAL_UPSTREAM_REPO = "https://github.com/hackelite01/Marcus-userbot"
 BOT_IS_UP_TO_DATE = "`The userbot is up-to-date.\nThank you for Using this Service.`"
 NEW_BOT_UP_DATE_FOUND = (
     "new update found for {branch_name}\n"
@@ -152,7 +152,7 @@ def generate_change_log(git_repo, diff_marker):
 
 async def deploy_start(tgbot, message, refspec, remote):
     await message.edit(RESTARTING_APP)
-    await message.edit("Updating and Deploying New Branch Master!!;Please wait for 5 minutes then use `.alive` to check if i'm working or not Master!If Not Go To [Support Group](t.me/Godhackerzuserbot)")
+    await message.edit("Updating and Deploying New Branch Master!!;Please wait for 5 minutes then use `.alive` to check if i'm working or not Master!If Not Go To [Support Group](t.me/Marcususerbot)")
     await remote.push(refspec=refspec)
     await tgbot.disconnect()
     os.execl(sys.executable, sys.executable, *sys.argv)

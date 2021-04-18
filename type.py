@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # (c) Shrimadhav U K
 # Thanks To Uniborg
-# © @Godhackerzuserbot
+# © @Marcususerbot
 import asyncio
 from uniborg.util import admin_cmd
 
