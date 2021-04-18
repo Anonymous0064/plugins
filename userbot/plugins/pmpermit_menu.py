@@ -4,7 +4,7 @@
 Support chatbox for pmpermit.
 Used by incoming messages with trigger as /start
 Will not work for already approved people.
-© marcus-UserBot
+© marcusUserBot
 """
 import asyncio
 
@@ -107,6 +107,6 @@ async def _(event):
                         await borg.send_message(chat, TWO)
                         await asyncio.sleep(3)
                         await event.client(functions.contacts.BlockRequest(chat_id))
-# © marcus-UserBot 
+# © marcusUserBot 
 # Don't Edit Anything
 # If You Edit This {Not For My Contributors} You Will Be Gay
