@@ -18,9 +18,9 @@ jobs:
 
         with:
 
-          find: "rohithaditya"
+          find: "Godhackerz"
 
-          replace: "hackelite01"
+          replace: "Marcus"
 
       - name: Create Pull Request
 
