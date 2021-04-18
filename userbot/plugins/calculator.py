@@ -1,6 +1,6 @@
 # From UniBorg
 # By Priyam Kalra
-# Ported For  @Godhackerzuserbot By @rohithaditya
+# Ported For  @Godhackerzuserbot By @hackelite01
 # Syntax (.cal.c <term1><operator><term2>)
 # For eg .calc 02*02 or 99*99 (the zeros are important) (two terms and two digits max)
 from telethon import events

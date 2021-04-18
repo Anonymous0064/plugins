@@ -64,7 +64,7 @@ async def animepp():
 async def main(event):
 
     await event.edit(
-        "**Starting Anime DP..\n\nDone !!! Check Your DP in 5 seconds. By [GODHACKERZUSERBOT](https://github.com/rohithaditya/Godhackerz-userbot)**"
+        "**Starting Anime DP..\n\nDone !!! Check Your DP in 5 seconds. By [GODHACKERZUSERBOT](https://github.com/hackelite01/Godhackerz-userbot)**"
     )
 
     while True:

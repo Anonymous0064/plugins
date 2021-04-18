@@ -1,6 +1,6 @@
 """
 Shifter plugin From Dark Cobra Userbot 
-Added And Edited by @rohithaditya for @godhackerzuserbot
+Added And Edited by @hackelite01 for @godhackerzuserbot
 
 orginally created by Team Dark Cobra 
 don't try to kang Without asking 
@@ -277,7 +277,7 @@ async def upstream(event):
 
     event = await event.edit("`Pulling the Godhackerzuserbot repo wait a sec ....`")
 
-    off_repo = "https://github.com/rohithaditya/Godhackerz-userbot"
+    off_repo = "https://github.com/hackelite01/Godhackerz-userbot"
 
     cmd = f"rm -rf .git"
 

@@ -1,5 +1,5 @@
 # Fully Written by @HeisenbergTheDanger (Keep credits else gay)
-# Permission Seeked By @rohithaditya - Approved
+# Permission Seeked By @hackelite01 - Approved
 # Thanks To Telebot 
 # Full Credits Are Approved 
 # © @Godhackerzuserbot

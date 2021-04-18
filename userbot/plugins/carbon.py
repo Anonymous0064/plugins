@@ -1,5 +1,5 @@
 # Copyright (C) 2019 The Raphielscape Company LLC.
-# Fixed Delete After Download Issue by @rohithaditya
+# Fixed Delete After Download Issue by @hackelite01
 # Licensed under the Raphielscape Public License, Version 1.b (the "License");
 # you may not use this file except in compliance with the License.
 #
@@ -94,7 +94,7 @@ async def carbon_api(e):
         await e.client.send_file(
             e.chat_id,
             file,
-            caption="<< `Here's your carbon Master!` \n **Carbonised Using** [marcusUserbot](https://github.com/rohithaditya/Godhackerz-userbot.git)>>\n**Colour Scheme: **`{}`".format(
+            caption="<< `Here's your carbon Master!` \n **Carbonised Using** [marcusUserbot](https://github.com/hackelite01/Godhackerz-userbot.git)>>\n**Colour Scheme: **`{}`".format(
                 color_name
             ),
             force_document=True,

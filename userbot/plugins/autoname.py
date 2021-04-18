@@ -1,8 +1,8 @@
-# Copyright (C) 2020 by @Godhackerzuserbot, < https://github.com/rohithaditya/Godhackerz-userbot.git>.
+# Copyright (C) 2020 by @Godhackerzuserbot, < https://github.com/hackelite01/Godhackerz-userbot.git>.
 #
-# This file is part of < https://github.com/rohithaditya/Godhackerz-userbot > project,
+# This file is part of < https://github.com/hackelite01/Godhackerz-userbot > project,
 # and is released under the "GNU v3.0 License Agreement".
-# Please see < https://github.com/rohithaditya/Godhackerz-userbot/blob/main/LICENSE >
+# Please see < https://github.com/hackelite01/Godhackerz-userbot/blob/main/LICENSE >
 # © @Godhackerzuserbot
 # All rights reserved.
 

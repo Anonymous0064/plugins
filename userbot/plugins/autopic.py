@@ -1,4 +1,4 @@
-# Licensed Under GPU 2.0 "https://github.com/rohithaditya/Godhackerz-userbot/blob/main/LICENSE"
+# Licensed Under GPU 2.0 "https://github.com/hackelite01/Godhackerz-userbot/blob/main/LICENSE"
 # © @Godhackerzuserbot
 # If You Chnge You Are Blitch son 
 import asyncio

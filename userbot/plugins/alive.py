@@ -42,8 +42,8 @@ pm_caption += "🥱A.I Verision : Beta **1.0.01** [Ask Support Group Master](t.m
 pm_caption += "😱Sudo : **{sudo}**\n"
 pm_caption += "🤫Database status : All Fine👌\n"
 pm_caption += f"🥰My Pro Master : {DEFAULTUSER}\n\n"
-pm_caption += "🤖[✅ Deploy Me Now ✅](https://github.com/rohithaditya/Godhackerz-userbot.git)\n\n"
-pm_caption += "© [marcus Userbot](https://github.com/rohithaditya/Godhackerz-userbot/blob/main/LICENSE)\n\n"
+pm_caption += "🤖[✅ Deploy Me Now ✅](https://github.com/hackelite01/Godhackerz-userbot.git)\n\n"
+pm_caption += "© [marcus Userbot](https://github.com/hackelite01/Godhackerz-userbot/blob/main/LICENSE)\n\n"
 pm_caption += "    [GODHACKERZ](https://t.me/Godhackerzuserbot) For Latest Updates\n\n"
 pm_caption += "SYSTEM HEALTH : STABLE 😎👍 "
 

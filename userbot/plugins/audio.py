@@ -1,6 +1,6 @@
 # © @Godhackerzuserbot
 # Original Plugin From Javes Userbot
-# Ported by @rohithaditya
+# Ported by @hackelite01
 # "Don't Change This Gay"
 import datetime
 from telethon import events
