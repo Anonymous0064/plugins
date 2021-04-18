@@ -17,7 +17,7 @@ from telethon.tl.types import MessageEntityMentionName
 from .. import ALIVE_NAME, CMD_HELP
 from ..utils import admin_cmd
 
-DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "GodHackerz User"
+DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "marcus User"
 DEFAULTUSERBIO = "Pm Protection By Godhackerz Userbot service = Spam = die"
 if Config.PRIVATE_CHANNEL_BOT_API_ID is None:
     BOTLOG = False

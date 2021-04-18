@@ -16,7 +16,7 @@ from telethon import events
 from uniborg.util import admin_cmd
 from userbot import ALIVE_NAME
 from telethon.tl.types import ChannelParticipantsAdmins
-DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "GodHackerz User"
+DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "marcus User"
 
 if Config.SUDO_USERS:
     sudo = "Enabled"
@@ -31,7 +31,7 @@ file3 = "https://telegra.ph/file/a386f6da7009a432f8706.jpg"
 file4 = "https://telegra.ph/file/e080376d79ad6d4b49537.jpg"
 """ =======================CONSTANTS====================== """
 
-pm_caption = "**This is GodHackerz Userbot**\n\n"
+pm_caption = "**This is marcus Userbot**\n\n"
 
 pm_caption += "Hi THERE 👋 MASTER ! I am Alive. All functions are working properly.\n\n"
 pm_caption += "⚡️Status⚡️\n\n"
@@ -43,7 +43,7 @@ pm_caption += "😱Sudo : **{sudo}**\n"
 pm_caption += "🤫Database status : All Fine👌\n"
 pm_caption += f"🥰My Pro Master : {DEFAULTUSER}\n\n"
 pm_caption += "🤖[✅ Deploy Me Now ✅](https://github.com/rohithaditya/Godhackerz-userbot.git)\n\n"
-pm_caption += "© [GodHackerz Userbot](https://github.com/rohithaditya/Godhackerz-userbot/blob/main/LICENSE)\n\n"
+pm_caption += "© [marcus Userbot](https://github.com/rohithaditya/Godhackerz-userbot/blob/main/LICENSE)\n\n"
 pm_caption += "    [GODHACKERZ](https://t.me/Godhackerzuserbot) For Latest Updates\n\n"
 pm_caption += "SYSTEM HEALTH : STABLE 😎👍 "
 
