@@ -18,15 +18,15 @@
 
 <a  href="https://git.io/streak-stats">
 
-<img  src="http://github-readme-streak-stats.herokuapp.com?user=saicharan67&theme=react&background=0d1117&border=666">
+<img  src="http://github-readme-streak-stats.herokuapp.com?user=hackelite01&theme=react&background=0d1117&border=666">
 
 </a>
 
 <br>
 
-<a  href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+<a  href="https://github.com/hackelite01/github-readme-activity-graph">
 
-<img  src="https://activity-graph.herokuapp.com/graph?username=saicharan67&custom_title=Sai%20Charan's%20Contribution%20Graph&theme=react-dark&hide_border=true">
+<img  src="https://activity-graph.herokuapp.com/graph?username=hackelite01&custom_title=Mayank's%20Contribution%20Graph&theme=react-dark&hide_border=true">
 
 </a>
 
