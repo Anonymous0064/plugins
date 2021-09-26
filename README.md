@@ -50,3 +50,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hackelite01&" alt="hackelite01" /></p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hackelite01)](https://github.com/hackelite01/github-readme-stats)
+
